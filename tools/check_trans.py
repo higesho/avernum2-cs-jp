@@ -18,7 +18,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 NORMALIZE = str.maketrans({'～': '〜', '－': '−', '∥': '‖', '￠': '¢', '￡': '£', '￢': '¬'})
 LITERAL_MAX = 510
-KIND_MAX = {'give_char_text_bubble': 39, 'cr_name': 19, 'set_name': 19, 'set_personality_name': 19,
+KIND_MAX = {'give_char_text_bubble': 39, 'run_text_on_char': 39, 'set_cutscene_text': 80, 'cr_name': 19, 'set_name': 19, 'set_personality_name': 19,
             'ab_name': 19, 'ob_name': 19, 'it_name': 25,
             # joined as "<name><text>" into a 256-byte buffer by the DLL (0x47bcfc); name <= 19 bytes
             'print_named_str': 230}

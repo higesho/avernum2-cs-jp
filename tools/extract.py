@@ -21,6 +21,8 @@ TRANSLATE = {
     'print_str', 'print_str_color', 'print_big_str', 'set_name', 'shop',
     'set_terrain_string_range', 'message_dialog', 'add_dialog_str', 'run_teleport',
     'give_char_text_bubble', 'print_named_str', 'set_personality_name',
+    'run_text_on_char',    # floating text over a character (39 bytes, like text bubbles)
+    'set_cutscene_text',   # one line of a cutscene caption
 }
 CALLS = {'print_str', 'print_str_color', 'print_big_str', 'print_named_str'}
 NO_LETTERS = re.compile(r'^[^A-Za-z]*$')
