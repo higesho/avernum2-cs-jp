@@ -1,0 +1,1272 @@
+[
+{
+"en": "Malka's Medicine.",
+"ja": "マルカの薬",
+"keep": true
+},
+{
+"en": "Master Weglan",
+"ja": "ウェグラン師範",
+"keep": true
+},
+{
+"en": "Master the Tower Portal.",
+"ja": "塔の転移門の習得",
+"keep": true
+},
+{
+"en": "Materials to Dharmon.",
+"ja": "ダーモンへの材料",
+"keep": true
+},
+{
+"en": "Matt's Weaponry",
+"ja": "マットの武器店",
+"keep": true
+},
+{
+"en": "Mayor's Bones",
+"ja": "町長の骨",
+"keep": true
+},
+{
+"en": "Meet Mahdavi.",
+"ja": "マハダヴィに会う",
+"keep": true
+},
+{
+"en": "Megashrub S",
+"ja": "巨大な低木",
+"keep": false
+},
+{
+"en": "Message for Tower of Magi.",
+"ja": "魔術師の塔への伝言",
+"keep": true
+},
+{
+"en": "Miranda the Healer",
+"ja": "ミランダの治療所",
+"keep": true
+},
+{
+"en": "Mutant Burnhound",
+"ja": "変異バーンハウンド",
+"keep": true
+},
+{
+"en": "Mysterious Shade",
+"ja": "謎の亡霊",
+"keep": true
+},
+{
+"en": "NO USE",
+"ja": "使用不可",
+"keep": false
+},
+{
+"en": "Nepharim Chief Necklace",
+"ja": "ネファリムの族長の首飾り",
+"keep": true
+},
+{
+"en": "Nephil Raider",
+"ja": "ネフィル襲撃者",
+"keep": true
+},
+{
+"en": "Nephil Slave",
+"ja": "ネフィル奴隷",
+"keep": true
+},
+{
+"en": "Nephilim Map",
+"ja": "ネフィリムの地図",
+"keep": true
+},
+{
+"en": "Nice Loom ND",
+"ja": "上質な織機",
+"keep": false
+},
+{
+"en": "Nice Pot ND NC",
+"ja": "上質な壺",
+"keep": false
+},
+{
+"en": "No Quests",
+"ja": "クエストなし",
+"keep": false
+},
+{
+"en": "No Special Items",
+"ja": "特別なアイテムなし",
+"keep": false
+},
+{
+"en": "Null Bug",
+"ja": "無効の虫",
+"keep": true
+},
+{
+"en": "Nullity",
+"ja": "無効化",
+"keep": true
+},
+{
+"en": "Nullity Construct",
+"ja": "無効化の構造体",
+"keep": true
+},
+{
+"en": "Obtain Demonslayer.",
+"ja": "デーモンスレイヤーの入手",
+"keep": true
+},
+{
+"en": "Ogre Slave",
+"ja": "オーガ奴隷",
+"keep": true
+},
+{
+"en": "Oratem the Alchemist",
+"ja": "オラテムの錬金店",
+"keep": true
+},
+{
+"en": "Orders for Fort Haledon",
+"ja": "ハレドン砦の命令書",
+"keep": true
+},
+{
+"en": "Orho's Slith Spears",
+"ja": "オルホのスリスの槍店",
+"keep": true
+},
+{
+"en": "Oriket of the Ten",
+"ja": "十人衆のオリケット",
+"keep": true
+},
+{
+"en": "Orita",
+"ja": "オリタ",
+"keep": true
+},
+{
+"en": "Orrun of the Ten",
+"ja": "十人衆のオルン",
+"keep": true
+},
+{
+"en": "Orson's Weapons",
+"ja": "オーソンの武器店",
+"keep": true
+},
+{
+"en": "Ostoth's Chambers.",
+"ja": "オストスの居室",
+"keep": true
+},
+{
+"en": "Overseer Gnarva",
+"ja": "グナーヴァ監督官",
+"keep": true
+},
+{
+"en": "Overseer Jugran",
+"ja": "ジュグラン監督官",
+"keep": true
+},
+{
+"en": "Overseer Khana",
+"ja": "カーナ監督官",
+"keep": true
+},
+{
+"en": "Overseer Uighra",
+"ja": "ウイグラ監督官",
+"keep": true
+},
+{
+"en": "PLACEHOLDER SCROLL",
+"ja": "仮の巻物",
+"keep": true
+},
+{
+"en": "Package For Dharmon",
+"ja": "ダーモン宛の小包",
+"keep": true
+},
+{
+"en": "Papers For Fort Remote.",
+"ja": "リモート砦への書類",
+"keep": true
+},
+{
+"en": "Pass Waterfall Warren.",
+"ja": "滝の巣窟の通過",
+"keep": true
+},
+{
+"en": "Password For Waldby.",
+"ja": "ウォルドビーの合言葉",
+"keep": true
+},
+{
+"en": "Peasant Body C ND",
+"ja": "農民の死体",
+"keep": false
+},
+{
+"en": "Phonleth",
+"ja": "フォンレス",
+"keep": true
+},
+{
+"en": "Phosphorescent Wyrm",
+"ja": "燐光の大蛇",
+"keep": true
+},
+{
+"en": "Pile of Books D",
+"ja": "本の山",
+"keep": false
+},
+{
+"en": "Plated Giant",
+"ja": "板金の巨人",
+"keep": true
+},
+{
+"en": "Plated Scumgiant",
+"ja": "板金の下賤な巨人",
+"keep": true
+},
+{
+"en": "Portal Access Ritual.",
+"ja": "転移門の接続儀式",
+"keep": true
+},
+{
+"en": "Portal Defender",
+"ja": "転移門の守護者",
+"keep": true
+},
+{
+"en": "Portalmaster Chael",
+"ja": "チャエル転移門長",
+"keep": true
+},
+{
+"en": "Portalmaster Foran",
+"ja": "フォーラン転移門長",
+"keep": true
+},
+{
+"en": "Portalmaster Tyus",
+"ja": "タイアス転移門長",
+"keep": true
+},
+{
+"en": "Postlethwaite's Spells",
+"ja": "ポストルウェイトの呪文店",
+"keep": true
+},
+{
+"en": "Pot D NC",
+"ja": "壺",
+"keep": false
+},
+{
+"en": "Preservation Golem",
+"ja": "保存のゴーレム",
+"keep": true
+},
+{
+"en": "Priest of Elgar",
+"ja": "エルガーの司祭",
+"keep": true
+},
+{
+"en": "Pustulent Rat",
+"ja": "化膿したネズミ",
+"keep": true
+},
+{
+"en": "Pustulent Zombie",
+"ja": "化膿したゾンビ",
+"keep": true
+},
+{
+"en": "Pyrn's Portal Lessons.",
+"ja": "ピルンの転移門講義",
+"keep": true
+},
+{
+"en": "Pyrrhic Gauntlets",
+"ja": "ピュロスの籠手",
+"keep": true
+},
+{
+"en": "Queen of Mages",
+"ja": "魔術師の女王",
+"keep": true
+},
+{
+"en": "Quickblade Plate",
+"ja": "速剣の板金鎧",
+"keep": true
+},
+{
+"en": "Radiant Nullbug",
+"ja": "輝く無効の虫",
+"keep": true
+},
+{
+"en": "Raid the Portal.",
+"ja": "転移門の襲撃",
+"keep": true
+},
+{
+"en": "Raider Adakal",
+"ja": "襲撃者アダカル",
+"keep": true
+},
+{
+"en": "Raider Tanner",
+"ja": "襲撃者タナー",
+"keep": true
+},
+{
+"en": "Raider Thressa",
+"ja": "襲撃者スレッサ",
+"keep": true
+},
+{
+"en": "Rakshasa",
+"ja": "ラクシャーサ",
+"keep": true
+},
+{
+"en": "Rakshasa Hireling",
+"ja": "ラクシャーサの傭兵",
+"keep": true
+},
+{
+"en": "Rattling Bones",
+"ja": "カタカタ鳴る骨",
+"keep": true
+},
+{
+"en": "Read Map",
+"ja": "地図読解",
+"keep": true
+},
+{
+"en": "Recover Giant Statues.",
+"ja": "巨人の像の回収",
+"keep": true
+},
+{
+"en": "Recover Slith Charm.",
+"ja": "スリスのお守りの回収",
+"keep": true
+},
+{
+"en": "Recover Three Crystal Souls.",
+"ja": "三つの水晶の魂の回収",
+"keep": true
+},
+{
+"en": "Recover the Spider Eggs.",
+"ja": "蜘蛛の卵の回収",
+"keep": true
+},
+{
+"en": "Red Empire Pass",
+"ja": "赤の帝国の通行証",
+"keep": true
+},
+{
+"en": "Redstone Drake",
+"ja": "赤石のドレイク",
+"keep": true
+},
+{
+"en": "Renee the Sage",
+"ja": "賢者ルネ",
+"keep": true
+},
+{
+"en": "Rentar-Ihrno's Aid.",
+"ja": "レンタール・イルノの援助",
+"keep": true
+},
+{
+"en": "Repaired Spy Evidence",
+"ja": "修復された密偵の証拠",
+"keep": true
+},
+{
+"en": "Replace Ankh.",
+"ja": "アンクの交換",
+"keep": true
+},
+{
+"en": "Report the Weakness.",
+"ja": "弱点の報告",
+"keep": true
+},
+{
+"en": "Report to Vidican.",
+"ja": "ヴィディカンへの報告",
+"keep": true
+},
+{
+"en": "Rescue Nephil Slaves.",
+"ja": "ネフィル奴隷の救出",
+"keep": true
+},
+{
+"en": "Rippel's Armory",
+"ja": "リッペルの武具店",
+"keep": true
+},
+{
+"en": "Rippel's Crafts.",
+"ja": "リッペルの工芸店",
+"keep": true
+},
+{
+"en": "Rorik's Fine Wines",
+"ja": "ロリックの上質なワイン店",
+"keep": true
+},
+{
+"en": "Rorik's Rations",
+"ja": "ロリックの糧食店",
+"keep": true
+},
+{
+"en": "Rosemary's Apothecary",
+"ja": "ローズマリーの薬屋",
+"keep": true
+},
+{
+"en": "Rosemary's Potions.",
+"ja": "ローズマリーの薬",
+"keep": true
+},
+{
+"en": "Royal Clearance",
+"ja": "王室の許可証",
+"keep": true
+},
+{
+"en": "Rumbling Rocks",
+"ja": "唸る岩",
+"keep": true
+},
+{
+"en": "Run Earthquake",
+"ja": "地震を起こす",
+"keep": true
+},
+{
+"en": "Runed Key",
+"ja": "ルーンの鍵",
+"keep": true
+},
+{
+"en": "Runic Blessing",
+"ja": "ルーンの祝福",
+"keep": true
+},
+{
+"en": "Sage Taran",
+"ja": "賢者タラン",
+"keep": true
+},
+{
+"en": "Sail to Vahnatai Lands.",
+"ja": "ヴァーナタイの地への航海",
+"keep": true
+},
+{
+"en": "Salamander",
+"ja": "サラマンダー",
+"keep": true
+},
+{
+"en": "Sanctification",
+"ja": "聖別",
+"keep": true
+},
+{
+"en": "Sarah's Spells",
+"ja": "サラの呪文店",
+"keep": true
+},
+{
+"en": "Sarcoph C D",
+"ja": "石棺",
+"keep": false
+},
+{
+"en": "Savior of Avernum",
+"ja": "アヴァーナムの救世主",
+"keep": true
+},
+{
+"en": "Scout Morrigan",
+"ja": "斥候モリガン",
+"keep": true
+},
+{
+"en": "Scroll - Sanctification",
+"ja": "聖別の巻物",
+"keep": true
+},
+{
+"en": "Scroll - Stoneshatter",
+"ja": "石砕きの巻物",
+"keep": true
+},
+{
+"en": "Seeking Gauntlets",
+"ja": "探求の籠手",
+"keep": true
+},
+{
+"en": "Seleta of the Ten",
+"ja": "十人衆のセレータ",
+"keep": true
+},
+{
+"en": "Seno's Magical Spells",
+"ja": "セノーの魔術店",
+"keep": true
+},
+{
+"en": "Shackled Hellhound",
+"ja": "鎖のヘルハウンド",
+"keep": true
+},
+{
+"en": "Shadowy Shield",
+"ja": "影の盾",
+"keep": true
+},
+{
+"en": "Shaman Durfle",
+"ja": "ダーフル呪術師",
+"keep": true
+},
+{
+"en": "Shaman Kerevass",
+"ja": "ケレヴァス呪術師",
+"keep": true
+},
+{
+"en": "Shaman Unasa'Ess",
+"ja": "ウナサエス呪術師",
+"keep": true
+},
+{
+"en": "Shaman Vossigna",
+"ja": "ヴォッシーナ呪術師",
+"keep": true
+},
+{
+"en": "Shaman Yuzsha",
+"ja": "ユザシャ呪術師",
+"keep": true
+},
+{
+"en": "Shambler",
+"ja": "シャンブラー",
+"keep": true
+},
+{
+"en": "Shannon's Weaponry",
+"ja": "シャノンの武器店",
+"keep": true
+},
+{
+"en": "Shaper Thrivit",
+"ja": "スリヴィット造形師",
+"keep": true
+},
+{
+"en": "Sharon's Crafts.",
+"ja": "シャロンの工芸店",
+"keep": true
+},
+{
+"en": "Sharon's Supplies",
+"ja": "シャロンの雑貨店",
+"keep": true
+},
+{
+"en": "Shield of Succor",
+"ja": "救済の盾",
+"keep": true
+},
+{
+"en": "Shield of the Deep",
+"ja": "深淵の盾",
+"keep": true
+},
+{
+"en": "Silent Dervish",
+"ja": "沈黙の修行僧",
+"keep": true
+},
+{
+"en": "Silvar Guard",
+"ja": "シルヴァー衛兵",
+"keep": true
+},
+{
+"en": "Sixus Map",
+"ja": "シクサスの地図",
+"keep": true
+},
+{
+"en": "Sixus Sentinel",
+"ja": "シクサスの番人",
+"keep": true
+},
+{
+"en": "Skilled Collector",
+"ja": "熟練の収集家",
+"keep": true
+},
+{
+"en": "Slay Elderan.",
+"ja": "エルデランの討伐",
+"keep": true
+},
+{
+"en": "Slay Gaddika.",
+"ja": "ガディカの討伐",
+"keep": true
+},
+{
+"en": "Slay Garzahd.",
+"ja": "ガルザードの討伐",
+"keep": true
+},
+{
+"en": "Slay Hidden Ogres.",
+"ja": "隠れオーガの討伐",
+"keep": true
+},
+{
+"en": "Slay Nepharim Chieftain.",
+"ja": "ネファリムの族長の討伐",
+"keep": true
+},
+{
+"en": "Slith Lizardtender",
+"ja": "スリスのトカゲ番",
+"keep": true
+},
+{
+"en": "Slith Shroomtender",
+"ja": "スリスのキノコ番",
+"keep": true
+},
+{
+"en": "Small Javelin",
+"ja": "小型投げ槍",
+"keep": true
+},
+{
+"en": "Small Logs D",
+"ja": "小さな丸太",
+"keep": false
+},
+{
+"en": "Small Throne ND",
+"ja": "小さな玉座",
+"keep": false
+},
+{
+"en": "Smith Tyrol",
+"ja": "タイロル鍛冶屋",
+"keep": true
+},
+{
+"en": "Sneak Into Pyrog's Lair.",
+"ja": "パイロッグの巣窟への潜入",
+"keep": true
+},
+{
+"en": "Sniper's Belt",
+"ja": "狙撃のベルト",
+"keep": true
+},
+{
+"en": "Snurrgh",
+"ja": "スナーグ",
+"keep": true
+},
+{
+"en": "Solberg's Spells",
+"ja": "ソルバーグの呪文店",
+"keep": true
+},
+{
+"en": "Soldier Body C ND",
+"ja": "兵士の死体",
+"keep": false
+},
+{
+"en": "Soldier of Avernum",
+"ja": "アヴァーナムの兵士",
+"keep": true
+},
+{
+"en": "Sooara",
+"ja": "スーアラ",
+"keep": true
+},
+{
+"en": "Spectral Guard",
+"ja": "霊体の衛兵",
+"keep": true
+},
+{
+"en": "Spectral Protector",
+"ja": "霊体の守護者",
+"keep": true
+},
+{
+"en": "Spellweaver Yanoth",
+"ja": "ヤノス呪紡師",
+"keep": true
+},
+{
+"en": "Spider Egg Sac",
+"ja": "蜘蛛の卵嚢",
+"keep": true
+},
+{
+"en": "Spira the Bladesmith",
+"ja": "スピラの鍛冶屋",
+"keep": true
+},
+{
+"en": "Spirit Prism",
+"ja": "霊のプリズム",
+"keep": true
+},
+{
+"en": "Spiritist Fharrr",
+"ja": "ファール霊術師",
+"keep": true
+},
+{
+"en": "Spiritist Halorran",
+"ja": "ハロラン霊術師",
+"keep": true
+},
+{
+"en": "Spore Beast",
+"ja": "胞子の獣",
+"keep": true
+},
+{
+"en": "Stablekeeper Ygra",
+"ja": "イグラ厩番",
+"keep": true
+},
+{
+"en": "Starving Nephil",
+"ja": "飢えたネフィル",
+"keep": true
+},
+{
+"en": "Steal Dharmon Tools.",
+"ja": "ダーモンの道具の窃取",
+"keep": true
+},
+{
+"en": "Steel Key",
+"ja": "鋼の鍵",
+"keep": true
+},
+{
+"en": "Stone Basin D S",
+"ja": "石の水盤",
+"keep": false
+},
+{
+"en": "Stone Nest C ND",
+"ja": "石の巣",
+"keep": false
+},
+{
+"en": "Stone Post D",
+"ja": "石の柱",
+"keep": false
+},
+{
+"en": "Stool D",
+"ja": "腰掛け",
+"keep": false
+},
+{
+"en": "Stop Undead Raids.",
+"ja": "アンデッドの襲撃阻止",
+"keep": true
+},
+{
+"en": "Stoppard's Miscellany",
+"ja": "ストッパードの雑貨店",
+"keep": true
+},
+{
+"en": "Stoppard's Potions.",
+"ja": "ストッパードの薬",
+"keep": true
+},
+{
+"en": "Stopping the Invasion",
+"ja": "侵攻の阻止",
+"keep": true
+},
+{
+"en": "Stout Hardwood Shield",
+"ja": "頑丈な堅木の盾",
+"keep": true
+},
+{
+"en": "Straw Nest C ND",
+"ja": "藁の巣",
+"keep": false
+},
+{
+"en": "Sugar for Gary.",
+"ja": "ゲイリーへの砂糖",
+"keep": true
+},
+{
+"en": "Surface Tools",
+"ja": "地上の道具",
+"keep": true
+},
+{
+"en": "Suzanne's Shoppe",
+"ja": "スザンヌの店",
+"keep": true
+},
+{
+"en": "Symbol D",
+"ja": "紋章",
+"keep": false
+},
+{
+"en": "Talk to Athron.",
+"ja": "アスロンとの会話",
+"keep": true
+},
+{
+"en": "Talk to Enla.",
+"ja": "エンラとの会話",
+"keep": true
+},
+{
+"en": "Tattered Banner",
+"ja": "破れた軍旗",
+"keep": true
+},
+{
+"en": "Temple Triad",
+"ja": "神殿のトライアド",
+"keep": true
+},
+{
+"en": "Terror Bones",
+"ja": "恐怖の骨",
+"keep": true
+},
+{
+"en": "Terror Construct",
+"ja": "恐怖の構造体",
+"keep": true
+},
+{
+"en": "Terror Hound",
+"ja": "恐怖の猟犬",
+"keep": true
+},
+{
+"en": "Terror Wight",
+"ja": "恐怖のワイト",
+"keep": true
+},
+{
+"en": "The Ambush",
+"ja": "待ち伏せ",
+"keep": true
+},
+{
+"en": "The Blessed Athame.",
+"ja": "祝福のアサメイ",
+"keep": true
+},
+{
+"en": "The Empire Archives.",
+"ja": "帝国の公文書館",
+"keep": true
+},
+{
+"en": "The General Falls",
+"ja": "将軍の陥落",
+"keep": true
+},
+{
+"en": "The Guardian Runes.",
+"ja": "守護のルーン",
+"keep": true
+},
+{
+"en": "The Olgai Council.",
+"ja": "オルガイ評議会",
+"keep": true
+},
+{
+"en": "The Private Stock",
+"ja": "秘蔵品店",
+"keep": true
+},
+{
+"en": "The Return",
+"ja": "帰還",
+"keep": true
+},
+{
+"en": "The Tower Falls",
+"ja": "塔の陥落",
+"keep": true
+},
+{
+"en": "The Vahnatai Castle.",
+"ja": "ヴァーナタイの城",
+"keep": true
+},
+{
+"en": "The Vahnatai Ritual.",
+"ja": "ヴァーナタイの儀式",
+"keep": true
+},
+{
+"en": "Thompson's Hiding Spot.",
+"ja": "トンプソンの隠れ家",
+"keep": true
+},
+{
+"en": "Thompson's Spells",
+"ja": "トンプソンの呪文店",
+"keep": true
+},
+{
+"en": "Thudgrud",
+"ja": "サドグルド",
+"keep": true
+},
+{
+"en": "Tina the Fletcher",
+"ja": "ティナの矢屋",
+"keep": true
+},
+{
+"en": "Tokor-Te's Spells",
+"ja": "トコル・テの呪文店",
+"keep": true
+},
+{
+"en": "Tor's Farm",
+"ja": "トアの農場",
+"keep": true
+},
+{
+"en": "Tor's Lessons",
+"ja": "トアの教練所",
+"keep": true
+},
+{
+"en": "Total Consciousness",
+"ja": "完全な意識",
+"keep": true
+},
+{
+"en": "Travel to Erika.",
+"ja": "エリカへの旅",
+"keep": true
+},
+{
+"en": "Travel to Formello.",
+"ja": "フォルメロへの旅",
+"keep": true
+},
+{
+"en": "Travel to the Vahnatai.",
+"ja": "ヴァーナタイへの旅",
+"keep": true
+},
+{
+"en": "Tribal Warblade",
+"ja": "部族の戦刃",
+"keep": true
+},
+{
+"en": "Tybalt",
+"ja": "ティボルト",
+"keep": true
+},
+{
+"en": "UNUSED Stoneworm",
+"ja": "未使用の石の蠕虫",
+"keep": true
+},
+{
+"en": "Upper Half of Scroll",
+"ja": "巻物の上半分",
+"keep": true
+},
+{
+"en": "Uranium Bar",
+"ja": "ウランの延べ棒",
+"keep": true
+},
+{
+"en": "Vahnatai Apostate",
+"ja": "ヴァーナタイ背教者",
+"keep": true
+},
+{
+"en": "Vahnatai Box C",
+"ja": "ヴァーナタイの箱",
+"keep": true
+},
+{
+"en": "Vahnatai Case",
+"ja": "ヴァーナタイの容器",
+"keep": true
+},
+{
+"en": "Vahnatai Cloak",
+"ja": "ヴァーナタイの外套",
+"keep": true
+},
+{
+"en": "Vahnatai Figurine",
+"ja": "ヴァーナタイの小像",
+"keep": true
+},
+{
+"en": "Vahnatai Key",
+"ja": "ヴァーナタイの鍵",
+"keep": true
+},
+{
+"en": "Vahnatai Lands Map",
+"ja": "ヴァーナタイ領の地図",
+"keep": true
+},
+{
+"en": "Vahnatai Letters",
+"ja": "ヴァーナタイの手紙",
+"keep": true
+},
+{
+"en": "Vahnatai Lore",
+"ja": "ヴァーナタイの伝承",
+"keep": true
+},
+{
+"en": "Vahnatai Master",
+"ja": "ヴァーナタイ師範",
+"keep": true
+},
+{
+"en": "Vahnatai Secrets",
+"ja": "ヴァーナタイの秘密",
+"keep": true
+},
+{
+"en": "Vahnatai Stool D",
+"ja": "ヴァーナタイの椅子",
+"keep": true
+},
+{
+"en": "Vahnatai Woman",
+"ja": "ヴァーナタイ女性",
+"keep": true
+},
+{
+"en": "Vahnatai woman",
+"ja": "ヴァーナタイ女性",
+"keep": true
+},
+{
+"en": "Vicious Ice Lizard",
+"ja": "凶暴な氷トカゲ",
+"keep": true
+},
+{
+"en": "Vicious Pit Lizard",
+"ja": "凶暴な穴トカゲ",
+"keep": true
+},
+{
+"en": "Vilans the Thug",
+"ja": "ごろつきヴィランス",
+"keep": true
+},
+{
+"en": "Vincent's Potions",
+"ja": "ヴィンセントの薬屋",
+"keep": true
+},
+{
+"en": "Visit Fort Dolthar.",
+"ja": "ドルサー砦への訪問",
+"keep": true
+},
+{
+"en": "Visit Fort Draco.",
+"ja": "ドラコ砦への訪問",
+"keep": true
+},
+{
+"en": "Visit Harston.",
+"ja": "ハーストンへの訪問",
+"keep": true
+},
+{
+"en": "Vorg of the Ten",
+"ja": "十人衆のヴォーグ",
+"keep": true
+},
+{
+"en": "Waldby's Bazaar",
+"ja": "ウォルドビーのバザール",
+"keep": true
+},
+{
+"en": "Walner the Sage",
+"ja": "賢者ウォルナー",
+"keep": true
+},
+{
+"en": "Warped Goblin",
+"ja": "歪んだゴブリン",
+"keep": true
+},
+{
+"en": "Warped Kyass",
+"ja": "歪んだキャス",
+"keep": true
+},
+{
+"en": "Warped Shambler",
+"ja": "歪んだシャンブラー",
+"keep": true
+},
+{
+"en": "Warrior Monk",
+"ja": "戦士修道僧",
+"keep": true
+},
+{
+"en": "Weird-Looking Stone",
+"ja": "奇妙な石",
+"keep": true
+},
+{
+"en": "Whirling Dervish",
+"ja": "旋風の修行僧",
+"keep": true
+},
+{
+"en": "Whirling Stalker",
+"ja": "旋風の追跡者",
+"keep": true
+},
+{
+"en": "Wispy Construct",
+"ja": "霞の構造体",
+"keep": true
+},
+{
+"en": "Witch Aubry",
+"ja": "魔女オーブリー",
+"keep": true
+},
+{
+"en": "Witch Kimm",
+"ja": "魔女キム",
+"keep": true
+},
+{
+"en": "Witch Louisa",
+"ja": "魔女ルイーザ",
+"keep": true
+},
+{
+"en": "Withered Hraithe",
+"ja": "枯れたフレイス",
+"keep": true
+},
+{
+"en": "Wounded Vahnatai",
+"ja": "ヴァーナタイ負傷者",
+"keep": true
+},
+{
+"en": "Woven Gold Band",
+"ja": "金糸織りの腕輪",
+"keep": true
+},
+{
+"en": "Woven Silver Band",
+"ja": "銀糸織りの腕輪",
+"keep": true
+},
+{
+"en": "Wrapped-up Bug",
+"ja": "包まれた虫",
+"keep": true
+},
+{
+"en": "Writhing Worm",
+"ja": "のたうつ蠕虫",
+"keep": true
+},
+{
+"en": "Ynka of the Ten",
+"ja": "十人衆のインカ",
+"keep": true
+},
+{
+"en": "Young Soldier",
+"ja": "若い兵士",
+"keep": true
+},
+{
+"en": "_Fred",
+"ja": "フレッド",
+"keep": true
+},
+{
+"en": "neph (unused)",
+"ja": "ネフ（未使用）",
+"keep": true
+}
+]

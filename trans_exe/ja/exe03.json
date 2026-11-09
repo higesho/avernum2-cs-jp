@@ -1,0 +1,20 @@
+{
+"0x5ea300": "Error: Text string out of range.",
+"0x5ea324": "Error: String too long",
+"0x5ea344": ".jpg",
+"0x5ea3d4": "Error: Loading duplicate pict, graphic ",
+"0x5ea590": "飛行: 門の中へは飛べない。高度が低すぎる。",
+"0x5ea5c4": "飛行: 進路を壁にふさがれた。",
+"0x5ea638": "KGraphicGL::SetScreenSize Not Called!",
+"0x5ea660": "Screen Dimensions not specified, you will not see anything",
+"0x5ea69c": ".tga",
+"0x5ea6a4": ".gif",
+"0x5ea6ac": "Could not load picture ",
+"0x5ea83c": "P",
+"0x5ea85c": "A",
+"0x5ea870": "A",
+"0x5ea900": "microsoft corporation",
+"0x5ea918": "gdi generic",
+"0x5ea924": "http://www.phelios.com  PTK Game Library.",
+"0x5ea950": "screenshot%d.tga"
+}
